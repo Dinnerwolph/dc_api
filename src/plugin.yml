@@ -1,0 +1,14 @@
+name: API
+version: 1
+main: fr.definity.api.API
+commands:
+  #slow:
+   # description: slowmode
+  #chatclear:
+   # description: clear the chat
+  #chat:
+   # description: activé/désactivé le chat
+  #arenamodo:
+   # description: Mode modération
+  nick:
+  lag:
